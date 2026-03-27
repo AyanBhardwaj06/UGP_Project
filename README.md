@@ -7,7 +7,7 @@ This is the repo for Tencent SolCuration Project. We provide an Aqueous Solubili
 
 ### How to download SolCuration tools and datasets  
 
-Simply run `git clone https://github.com/Mengjintao/SolCuration`.
+Simply run `git clone https://github.com/AyanBhardwaj06/UGP_Project`.
 
 The above command will download the data curation code and all the original and curated datasets automatically.  You can also download your favorite dataset directly from our repo manually.  
 
